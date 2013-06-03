@@ -1,11 +1,9 @@
-WordPress-Simple-MVC-Framework-Plugin-Mode
+WordPress-Simple-MVC-Framework
 ==============================
 
 A simple MVC framework for Wordpress, support static class methods, merged with Smarty Template.
-WordPress-Simple-MVC-Framework-Plugin-Mode is under MIT Copyright (c) 2012 Zhehai He <hezahcary@gmail.com>
+WordPress-Simple-MVC-Framework is under MIT Copyright (c) 2012 Zhehai He <hezahcary@gmail.com>
 version 0.92
-
-For theme mode user, please check <https://github.com/hezachary/WordPress-Simple-MVC-Framework>
 
 Structure Updates:
 ------------
